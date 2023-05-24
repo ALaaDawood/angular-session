@@ -4,3 +4,6 @@ form, p {
 button {
     margin: 10px;
 }
+input, p, button {
+    font-size: 25px;
+}
